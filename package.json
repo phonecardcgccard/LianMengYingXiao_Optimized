@@ -1,0 +1,25 @@
+{
+  "name": "lianmengyingxiao_optimized",
+  "version": "1.0.0",
+  "description": "联盟营销网站 - Vercel优化版",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "affiliate",
+    "marketing",
+    "multilingual",
+    "next.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^15.3.2",
+    "next-i18next": "^15.4.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
